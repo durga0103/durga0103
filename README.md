@@ -32,8 +32,9 @@ Mini projects created while learning frontend basics
 ---
 
 ## 🌐 Connect With Me
-- GitHub: [https://github.com/durga0103](https://github.com/durga0103)
-
----
+- 💼 LinkedIn: https://www.linkedin.com/in/durga-senthilkumar-9636bb295/
+- 🧠 LeetCode: https://leetcode.com/u/durga0103/
+- 🏆 CodeChef: https://www.codechef.com/users/durga0103
+- ⚔️ Codeforces: https://codeforces.com/profile/durga0103
 
 ✨ *Learning every day and improving step by step*
