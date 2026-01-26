@@ -1,15 +1,19 @@
-👋 Hi, I'm Durga
+# 👋 Hi, I'm Durga S
 
 🎓 **Student | Passionate Learner | Exploring Web Development**
 
-🌟 About Me
+---
+
+## 🌟 About Me
 
 * I am a student passionate about **Web Development**
 * Currently learning **HTML & CSS**
 * Creating small projects to improve my **frontend skills**
 * Interested in clean UI design and simple web pages
 
-🛠️ Skills
+---
+
+## 🛠️ Skills
 
 * HTML
 * CSS
@@ -17,7 +21,9 @@
 * Java
 * Python
 
-📂 Projects
+---
+
+## 📂 Projects
 
 🔹 **Portfolio Website**
 Personal portfolio website built using HTML & CSS
@@ -40,7 +46,8 @@ Simple website created while learning frontend basics
 🔗 [https://github.com/durga0103/website](https://github.com/durga0103/website)
 
 ---
- 🌐 Coding Platforms
+
+## 🌐 Coding Platforms
 
 <a href="https://leetcode.com/u/durga0103/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="120"/>
@@ -53,6 +60,18 @@ Simple website created while learning frontend basics
 <a href="https://codeforces.com/profile/durga0103">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="Codeforces" width="120"/>
 </a>
+
+---
+
+## 🔗 Connect With Me
+
+<a href="https://www.linkedin.com/in/durga-senthilkumar-9636bb295/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="60"/>
+</a>
+
+---
+
+✨ *Learning every day and improving step by step*
 
 
 ## 🔗 Connect With Me
