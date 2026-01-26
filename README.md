@@ -49,17 +49,19 @@ Simple website created while learning frontend basics
 
 ## 🌐 Coding Platforms
 
-<a href="https://leetcode.com/u/durga0103/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="120"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/durga0103">
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/7b/Codechef_logo.svg" alt="CodeChef" width="120"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/durga0103">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="Codeforces" width="120"/>
-</a>
+<p align="center">
+  <a href="https://leetcode.com/u/durga0103/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" alt="LeetCode" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/durga0103" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="80"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/durga0103" target="_blank">
+    <img src="https://codeforces.org/s/0/favicon-32x32.png" alt="Codeforces" width="40"/>
+  </a>
+</p>
 
 ---
 
@@ -70,15 +72,5 @@ Simple website created while learning frontend basics
 </a>
 
 ---
-
-✨ *Learning every day and improving step by step*
-
-
-## 🔗 Connect With Me
-
-<a href="https://www.linkedin.com/in/durga-senthilkumar-9636bb295/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="60"/>
-</a>
-
 
 ✨ *Learning every day and improving step by step*
